@@ -1,0 +1,47 @@
+{
+  "impostazioni": {
+    "notizie_per_argomento": 20,
+    "quota_italiane": 10,
+    "max_per_testata": 3,
+    "ore_massime": 72
+  },
+  "argomenti": {
+    "tecnologia": {
+      "titolo": "Tecnologia",
+      "feed": [
+        {"nome": "Wired Italia", "url": "https://www.wired.it/feed/rss", "lingua": "it"},
+        {"nome": "HDblog", "url": "https://www.hdblog.it/rss/", "lingua": "it"},
+        {"nome": "Punto Informatico", "url": "https://www.punto-informatico.it/feed/", "lingua": "it"},
+        {"nome": "ANSA Tecnologia", "url": "https://www.ansa.it/sito/notizie/tecnologia/tecnologia_rss.xml", "lingua": "it"},
+        {"nome": "Repubblica Tecnologia", "url": "https://www.repubblica.it/rss/tecnologia/rss2.0.xml", "lingua": "it"},
+        {"nome": "Il Sole 24 Ore Tecnologie", "url": "https://www.ilsole24ore.com/rss/tecnologie.xml", "lingua": "it"},
+        {"nome": "Tom's Hardware Italia", "url": "https://www.tomshw.it/feed/", "lingua": "it"},
+        {"nome": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "lingua": "en"},
+        {"nome": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index", "lingua": "en"},
+        {"nome": "TechCrunch", "url": "https://techcrunch.com/feed/", "lingua": "en"},
+        {"nome": "Wired", "url": "https://www.wired.com/feed/rss", "lingua": "en"},
+        {"nome": "Engadget", "url": "https://www.engadget.com/rss.xml", "lingua": "en"},
+        {"nome": "BBC Technology", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "lingua": "en"},
+        {"nome": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/", "lingua": "en"}
+      ]
+    },
+    "turismo": {
+      "titolo": "Turismo",
+      "feed": [
+        {"nome": "TTG Italia", "url": "https://www.ttgitalia.com/feed/", "lingua": "it"},
+        {"nome": "Travel Quotidiano", "url": "https://www.travelquotidiano.com/feed", "lingua": "it"},
+        {"nome": "Repubblica Viaggi", "url": "https://www.repubblica.it/rss/viaggi/rss2.0.xml", "lingua": "it"},
+        {"nome": "Dove Viaggi", "url": "https://www.doveviaggi.it/feed", "lingua": "it"},
+        {"nome": "SiViaggia", "url": "https://www.siviaggia.it/feed/", "lingua": "it"},
+        {"nome": "ANSA Viaggi", "url": "https://www.ansa.it/canale_viaggiart/it/notizie/viaggiart_rss.xml", "lingua": "it"},
+        {"nome": "Skift", "url": "https://skift.com/feed/", "lingua": "en"},
+        {"nome": "The Guardian Travel", "url": "https://www.theguardian.com/travel/rss", "lingua": "en"},
+        {"nome": "BBC Travel", "url": "https://www.bbc.com/travel/feed.rss", "lingua": "en"},
+        {"nome": "CNN Travel", "url": "http://rss.cnn.com/rss/edition_travel.rss", "lingua": "en"},
+        {"nome": "Condé Nast Traveler", "url": "https://www.cntraveler.com/feed/rss", "lingua": "en"},
+        {"nome": "Euronews Travel", "url": "https://www.euronews.com/rss?level=theme&name=travel", "lingua": "en"},
+        {"nome": "PhocusWire", "url": "https://www.phocuswire.com/rss", "lingua": "en"}
+      ]
+    }
+  }
+}
